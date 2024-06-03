@@ -1,0 +1,14 @@
+header{
+    height: 60px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+    img{
+        margin-left: 80px;
+    }
+    span{
+        margin-right: 80px;
+    }
+}
